@@ -1,0 +1,15 @@
+C:\Users\Win10\Desktop\estudando\C#\Idle\bin\Debug\net7.0\Idle.exe
+C:\Users\Win10\Desktop\estudando\C#\Idle\bin\Debug\net7.0\Idle.deps.json
+C:\Users\Win10\Desktop\estudando\C#\Idle\bin\Debug\net7.0\Idle.runtimeconfig.json
+C:\Users\Win10\Desktop\estudando\C#\Idle\bin\Debug\net7.0\Idle.dll
+C:\Users\Win10\Desktop\estudando\C#\Idle\bin\Debug\net7.0\Idle.pdb
+C:\Users\Win10\Desktop\estudando\C#\Idle\obj\Debug\net7.0\Idle.csproj.AssemblyReference.cache
+C:\Users\Win10\Desktop\estudando\C#\Idle\obj\Debug\net7.0\Idle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Win10\Desktop\estudando\C#\Idle\obj\Debug\net7.0\Idle.AssemblyInfoInputs.cache
+C:\Users\Win10\Desktop\estudando\C#\Idle\obj\Debug\net7.0\Idle.AssemblyInfo.cs
+C:\Users\Win10\Desktop\estudando\C#\Idle\obj\Debug\net7.0\Idle.csproj.CoreCompileInputs.cache
+C:\Users\Win10\Desktop\estudando\C#\Idle\obj\Debug\net7.0\Idle.dll
+C:\Users\Win10\Desktop\estudando\C#\Idle\obj\Debug\net7.0\refint\Idle.dll
+C:\Users\Win10\Desktop\estudando\C#\Idle\obj\Debug\net7.0\Idle.pdb
+C:\Users\Win10\Desktop\estudando\C#\Idle\obj\Debug\net7.0\Idle.genruntimeconfig.cache
+C:\Users\Win10\Desktop\estudando\C#\Idle\obj\Debug\net7.0\ref\Idle.dll
